@@ -7,6 +7,8 @@ crypto_keys_private.py
 
 # Encrypted output (useless without private keys)
 output/encrypted/
+output/*.csv
+output/*.json
 
 # Scraped data (temporary working files)
 output/scraped/
