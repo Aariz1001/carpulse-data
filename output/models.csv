@@ -1,0 +1,511 @@
+id,make_id,name,body_type,segment,market
+toyota_corolla,toyota,Corolla,Sedan|Hatchback|Wagon,Compact,Global
+toyota_camry,toyota,Camry,Sedan,Mid-size,Global
+toyota_sienna,toyota,Sienna,Minivan,Minivan,North America
+toyota_highlander,toyota,Highlander,SUV,Mid-size SUV,Global
+toyota_rav4,toyota,RAV4,SUV,Compact SUV,Global
+toyota_tacoma,toyota,Tacoma,Pickup Truck,Mid-size Truck,North America
+toyota_tundra,toyota,Tundra,Pickup Truck,Full-size Truck,North America
+toyota_prius,toyota,Prius,Hatchback,Compact,Global
+toyota_lexus_es,toyota,Lexus ES,Sedan,Luxury,Global
+toyota_lexus_ls,toyota,Lexus LS,Sedan,Full-size Luxury,Global
+toyota_lexus_rx,toyota,Lexus RX,SUV,Luxury SUV,Global
+toyota_4runner,toyota,4Runner,SUV,Mid-size SUV,North America
+toyota_sequoia,toyota,Sequoia,SUV,Full-size SUV,North America
+toyota_matrix,toyota,Matrix,Hatchback|Wagon,Compact,North America
+toyota_celica,toyota,Celica,Coupe,Sports Compact,Global
+toyota_supra,toyota,Supra,Coupe,Sports Car,Global
+toyota_yaris,toyota,Yaris,Hatchback|Sedan,Subcompact,Global
+toyota_avalon,toyota,Avalon,Sedan,Full-size,North America
+toyota_land_cruiser,toyota,Land Cruiser,SUV,Full-size SUV,Global
+toyota_fj_cruiser,toyota,FJ Cruiser,SUV,Off-road SUV,Global
+toyota_venza,toyota,Venza,SUV,Mid-size SUV,North America
+toyota_c-hr,toyota,C-HR,SUV,Subcompact SUV,Global
+toyota_corolla_cross,toyota,Corolla Cross,SUV,Subcompact SUV,Global
+toyota_bZ4X,toyota,bZ4X,SUV,Compact SUV,Global
+toyota_gr86,toyota,GR86,Coupe,Sports Car,Global
+honda_civic_2001_2005,honda,Civic (7th Gen),Hatch|Sedan,Compact,UK
+honda_accord_2003_2008,honda,Accord (7th Gen),Sedan|Estate,Mid,UK
+honda_jazz_2002_2008,honda,Jazz (1st Gen),MPV,Supermini,UK
+honda_s2000_2000_2009,honda,S2000,Convertible,Sports,UK
+honda_crv_2002_2006,honda,CR-V (2nd Gen),SUV,Compact SUV,UK
+honda_civic_2006_2011,honda,Civic (8th Gen),Hatch,Compact,UK
+honda_accord_2008_2015,honda,Accord (8th Gen),Sedan|Estate,Mid,UK
+honda_jazz_2008_2015,honda,Jazz (2nd Gen),MPV,Supermini,UK
+honda_crv_2007_2012,honda,CR-V (3rd Gen),SUV,Compact SUV,UK
+honda_insight_2009_2014,honda,Insight (2nd Gen),Hatch,Compact,UK
+honda_crz_2010_2016,honda,CR-Z,Hatch,Sports,UK
+honda_civic_2012_2016,honda,Civic (9th Gen),Hatch,Compact,UK
+honda_jazz_2015_2020,honda,Jazz (3rd Gen),MPV,Supermini,UK
+honda_hrv_2015_2021,honda,HR-V (1st Gen UK),SUV,Compact SUV,UK
+honda_crv_2012_2018,honda,CR-V (4th Gen),SUV,Compact SUV,UK
+honda_civic_2017_2021,honda,Civic (10th Gen),Hatch,Compact,UK
+honda_nsx_2016_2022,honda,NSX (2nd Gen),Sports,Luxury,UK
+honda_jazz_2020_present,honda,Jazz / Fit (4th Gen),Hatch|MPV,Supermini,UK
+honda_hrv_2021_present,honda,HR-V (3rd Gen),SUV,Compact SUV,UK
+honda_civic_2022_present,honda,Civic (11th Gen),Hatch,Compact,UK
+honda_crv_2018_2022,honda,CR-V (5th Gen),SUV,Compact SUV,UK
+honda_e_2020_present,honda,e,Hatch,City Car,UK
+honda_crv_2023_present,honda,CR-V (6th Gen),SUV,Compact SUV,UK
+ford_fiesta,ford,Fiesta,Hatchback,Supermini,UK
+ford_focus,ford,Focus,Hatchback|Estate,Compact,UK
+ford_mondeo,ford,Mondeo,Sedan|Hatchback|Estate,Large Family,UK
+ford_mustang,ford,Mustang,Coupe|Convertible,Sports,UK
+ford_puma,ford,Puma,SUV,Compact SUV,UK
+ford_kuga,ford,Kuga,SUV,Compact SUV,UK
+ford_explorer,ford,Explorer,SUV,Large SUV,UK
+ford_transit_custom,ford,Transit Custom,Van,Van,UK
+ford_s_max,ford,S-Max,MPV,MPV,UK
+ford_galaxy,ford,Galaxy,MPV,MPV,UK
+ford_b_max,ford,B-Max,MPV,Mini MPV,UK
+ford_c_max,ford,C-Max,MPV,Compact MPV,UK
+ford_ka,ford,Ka,City Car,City Car,UK
+ford_e_cosport,ford,EcoSport,SUV,Compact SUV,UK
+ford_mustang_mach_e,ford,Mustang Mach-E,SUV,Crossover SUV,UK
+ford_tourneo_connect,ford,Tourneo Connect,MPV,MPV,UK
+ford_transit,ford,Transit,Van,Van,UK
+ford_ranger,ford,Ranger,Pickup,Pickup,UK
+volkswagen_golf,volkswagen,Golf,Hatch,Compact,UK
+volkswagen_polo,volkswagen,Polo,Hatch,Supermini,UK
+volkswagen_passat,volkswagen,Passat,Sedan|Estate,Mid,UK
+volkswagen_tiguan,volkswagen,Tiguan,SUV,Compact SUV,UK
+volkswagen_touareg,volkswagen,Touareg,SUV,Full SUV,UK
+volkswagen_id3,volkswagen,ID.3,Hatch,Compact,UK
+volkswagen_id4,volkswagen,ID.4,SUV,Compact SUV,UK
+volkswagen_id5,volkswagen,ID.5,SUV,SUV Coupe,UK
+volkswagen_id6,volkswagen,ID.6,SUV,Full SUV,UK
+volkswagen_t_roc,volkswagen,T-Roc,SUV,Compact SUV,UK
+volkswagen_taigo,volkswagen,Taigo,SUV Coupe,Subcompact SUV,UK
+volkswagen_up,volkswagen,Up!,Hatch,City Car,UK
+volkswagen_sharan,volkswagen,Sharan,MPV,MPV,UK
+volkswagen_touran,volkswagen,Touran,MPV,MPV,UK
+volkswagen_arteon,volkswagen,Arteon,Fastback,Executive,UK
+volkswagen_scirocco,volkswagen,Scirocco,Coupe,Sports Coupe,UK
+volkswagen_eos,volkswagen,Eos,Convertible,Convertible,UK
+volkswagen_caddy,volkswagen,Caddy,MPV|Van,MPV|Light Commercial,UK
+volkswagen_multivan,volkswagen,Multivan,MPV,MPV,UK
+volkswagen_id7,volkswagen,ID.7,Sedan,Executive,UK
+bmw_1series_f40,bmw,1 Series (F40),Hatchback,Compact,UK
+bmw_2series_f44,bmw,2 Series Gran Coupe (F44),Sedan,Compact,UK
+bmw_2series_f22_g42,bmw,2 Series Coupe (F22/G42),Coupe,Compact,UK
+bmw_2series_f46,bmw,2 Series Gran Tourer (F46),MPV,Compact,UK
+bmw_3series_g20,bmw,3 Series (G20),Sedan,Mid,UK
+bmw_3series_g21,bmw,3 Series Touring (G21),Wagon,Mid,UK
+bmw_4series_g22,bmw,4 Series Coupe (G22),Coupe,Mid,UK
+bmw_4series_g23,bmw,4 Series Convertible (G23),Convertible,Mid,UK
+bmw_4series_g26,bmw,4 Series Gran Coupe (G26),Sedan,Mid,UK
+bmw_5series_g30,bmw,5 Series (G30),Sedan,Full,UK
+bmw_5series_g31,bmw,5 Series Touring (G31),Wagon,Full,UK
+bmw_7series_g11,bmw,7 Series (G11/G12),Sedan,Luxury,UK
+bmw_8series_g15,bmw,8 Series Coupe (G15),Coupe,Luxury,UK
+bmw_i4_g26,bmw,i4 (G26),Sedan,Mid,UK
+bmw_i7_g70,bmw,i7 (G70),Sedan,Luxury,UK
+bmw_i5_g60,bmw,i5 (G60),Sedan,Full,UK
+bmw_x1_f48_u11,bmw,X1 (F48/U11),SUV,Compact,UK
+bmw_x2_f39_u10,bmw,X2 (F39/U10),SUV,Compact,UK
+bmw_x3_g01,bmw,X3 (G01),SUV,Mid,UK
+bmw_x4_g02,bmw,X4 (G02),SUV,Mid,UK
+bmw_x5_g05,bmw,X5 (G05),SUV,Full,UK
+bmw_x6_g06,bmw,X6 (G06),SUV,Full,UK
+bmw_x7_g07,bmw,X7 (G07),SUV,Luxury,UK
+bmw_ix_g09,bmw,iX (G09),SUV,Luxury,UK
+bmw_z4_g29,bmw,Z4 (G29),Roadster,Compact,UK
+bmw_m2_g87,bmw,M2 (G87),Coupe,Compact,UK
+bmw_m3_g80,bmw,M3 (G80),Sedan,Mid,UK
+bmw_m4_g82,bmw,M4 (G82),Coupe,Mid,UK
+bmw_m5_f90,bmw,M5 (F90),Sedan,Full,UK
+bmw_m8_f91,bmw,M8 (F91/F92/F93),Coupe,Luxury,UK
+bmw_x3m_f97,bmw,X3 M (F97),SUV,Mid,UK
+bmw_x4m_f98,bmw,X4 M (F98),SUV,Mid,UK
+bmw_x5m_f95,bmw,X5 M (F95),SUV,Full,UK
+bmw_x6m_f96,bmw,X6 M (F96),SUV,Full,UK
+bmw_i3_i01,bmw,i3 (I01),Hatchback,Compact,UK
+bmw_i8_i12,bmw,i8 (I12),Coupe,Luxury,UK
+bmw_e87,bmw,1 Series (E87),Hatchback,Compact,UK
+bmw_e82,bmw,1 Series Coupe (E82),Coupe,Compact,UK
+bmw_e90,bmw,3 Series (E90),Sedan,Mid,UK
+bmw_e91,bmw,3 Series Touring (E91),Wagon,Mid,UK
+bmw_e60,bmw,5 Series (E60),Sedan,Full,UK
+bmw_e61,bmw,5 Series Touring (E61),Wagon,Full,UK
+bmw_e65,bmw,7 Series (E65/E66),Sedan,Luxury,UK
+bmw_e83,bmw,X3 (E83),SUV,Mid,UK
+bmw_e53,bmw,X5 (E53),SUV,Full,UK
+bmw_e46,bmw,3 Series (E46),Sedan,Mid,UK
+bmw_e39,bmw,5 Series (E39),Sedan,Full,UK
+bmw_e38,bmw,7 Series (E38),Sedan,Luxury,UK
+audi_a1,audi,A1,Hatchback,Compact,UK
+audi_a2,audi,A2,Hatchback,Compact,UK
+audi_a3,audi,A3,Hatchback|Sedan,Compact,UK
+audi_a4,audi,A4,Sedan|Estate,Mid-size,UK
+audi_a5,audi,A5,Coupe|Convertible|Sportback,Mid-size,UK
+audi_a6,audi,A6,Sedan|Estate,Executive,UK
+audi_a7,audi,A7,Sportback,Executive,UK
+audi_a8,audi,A8,Sedan,Full-size Luxury,UK
+audi_q2,audi,Q2,SUV,Compact SUV,UK
+audi_q3,audi,Q3,SUV,Compact SUV,UK
+audi_q4_e_tron,audi,Q4 e-tron,SUV,Compact SUV,UK
+audi_q5,audi,Q5,SUV,Mid-size SUV,UK
+audi_q7,audi,Q7,SUV,Full-size SUV,UK
+audi_q8,audi,Q8,SUV,Full-size Luxury SUV,UK
+audi_tt,audi,TT,Coupe|Roadster,Sports,UK
+audi_r8,audi,R8,Coupe|Spyder,Sports,UK
+audi_e_tron,audi,e-tron,SUV,Full-size Luxury SUV,UK
+audi_e_tron_gt,audi,e-tron GT,Sedan,Executive,UK
+mercedes-benz_a-class,mercedes-benz,A-Class,Hatchback,Compact,UK
+mercedes-benz_b-class,mercedes-benz,B-Class,MPV,Compact,UK
+mercedes-benz_c-class,mercedes-benz,C-Class,Sedan|Estate,Mid-size,UK
+mercedes-benz_e-class,mercedes-benz,E-Class,Sedan|Estate|Coupe|Cabriolet,Executive,UK
+mercedes-benz_s-class,mercedes-benz,S-Class,Sedan|Coupe|Cabriolet,Full-size Luxury,UK
+mercedes-benz_gla,mercedes-benz,GLA,SUV,Compact SUV,UK
+mercedes-benz_glb,mercedes-benz,GLB,SUV,Compact SUV,UK
+mercedes-benz_glc,mercedes-benz,GLC,SUV|Coupe,Mid-size SUV,UK
+mercedes-benz_gle,mercedes-benz,GLE,SUV|Coupe,Full-size SUV,UK
+mercedes-benz_gls,mercedes-benz,GLS,SUV,Full-size Luxury SUV,UK
+mercedes-benz_g-class,mercedes-benz,G-Class,SUV,Off-road Luxury,UK
+mercedes-benz_cla,mercedes-benz,CLA,Coupe|Shooting Brake,Compact Luxury,UK
+mercedes-benz_cls,mercedes-benz,CLS,Coupe,Executive Luxury,UK
+mercedes-benz_slc,mercedes-benz,SLC,Roadster,Luxury,UK
+mercedes-benz_sl,mercedes-benz,SL,Roadster,Luxury,UK
+mercedes-benz_amg-gt,mercedes-benz,AMG GT,Coupe|Roadster,Sports Luxury,UK
+mercedes-benz_v-class,mercedes-benz,V-Class,MPV,Luxury MPV,UK
+mercedes-benz_x-class,mercedes-benz,X-Class,Pickup Truck,Mid-size Pickup,UK
+mercedes-benz_eqa,mercedes-benz,EQA,SUV,Compact Electric SUV,UK
+mercedes-benz_eqb,mercedes-benz,EQB,SUV,Compact Electric SUV,UK
+mercedes-benz_eqc,mercedes-benz,EQC,SUV,Mid-size Electric SUV,UK
+mercedes-benz_eqe,mercedes-benz,EQE,Sedan|SUV,Executive Electric,UK
+mercedes-benz_eqs,mercedes-benz,EQS,Sedan|SUV,Full-size Electric Luxury,UK
+mercedes-benz_e-q-a,mercedes-benz,EQA,Hatchback,Compact Electric,UK
+mercedes-benz_eqb-hatch,mercedes-benz,EQB,Hatchback,Compact Electric,UK
+mercedes-benz_e-q-c-suv,mercedes-benz,EQC,SUV,Mid-size Electric SUV,UK
+mercedes-benz_e-q-e-sedan,mercedes-benz,EQE,Sedan,Executive Electric,UK
+mercedes-benz_e-q-s-sedan,mercedes-benz,EQS,Sedan,Full-size Electric Luxury,UK
+mercedes-benz_e-q-s-suv,mercedes-benz,EQS SUV,SUV,Full-size Electric Luxury SUV,UK
+mercedes-benz_e-q-e-suv,mercedes-benz,EQE SUV,SUV,Executive Electric SUV,UK
+mercedes-benz_maybach-s-class,mercedes-benz,Maybach S-Class,Sedan,Ultra Luxury,UK
+mercedes-benz_maybach-gls,mercedes-benz,Maybach GLS,SUV,Ultra Luxury SUV,UK
+mercedes-benz_slk,mercedes-benz,SLK,Roadster,Luxury,UK
+mercedes-benz_slr-mclaren,mercedes-benz,SLR McLaren,Coupe|Roadster,Supercar,UK
+mercedes-benz_sls-amg,mercedes-benz,SLS AMG,Coupe|Roadster,Supercar,UK
+mercedes-benz_gt-4-door-coupe,mercedes-benz,AMG GT 4-Door Coupe,Coupe,Performance Luxury,UK
+hyundai_accent,hyundai,Accent,Sedan|Hatch,Subcompact,UK
+hyundai_i10,hyundai,i10,Hatch,City Car,UK
+hyundai_i20,hyundai,i20,Hatch,Supermini,UK
+hyundai_i30,hyundai,i30,Hatch|Estate,Compact,UK
+hyundai_ioniq,hyundai,Ioniq,Hatch,Mid-size,UK
+hyundai_ioniq5,hyundai,Ioniq 5,SUV,Compact SUV,UK
+hyundai_ioniq6,hyundai,Ioniq 6,Sedan,Mid-size,UK
+hyundai_kona,hyundai,Kona,SUV,Subcompact SUV,UK
+hyundai_santafe,hyundai,Santa Fe,SUV,Mid-size SUV,UK
+hyundai_tucson,hyundai,Tucson,SUV,Compact SUV,UK
+hyundai_veloster,hyundai,Veloster,Hatch,Compact,UK
+hyundai_sonata,hyundai,Sonata,Sedan,Mid-size,UK
+hyundai_elantra,hyundai,Elantra,Sedan,Compact,UK
+hyundai_matrix,hyundai,Matrix,MPV,Mini MPV,UK
+hyundai_terracan,hyundai,Terracan,SUV,Large SUV,UK
+hyundai_ix35,hyundai,ix35,SUV,Compact SUV,UK
+hyundai_ix20,hyundai,ix20,MPV,Mini MPV,UK
+hyundai_h1,hyundai,H-1,Van|MPV,Large Van,UK
+kia_rio,kia,Rio,Hatchback,Supermini,UK
+kia_picanto,kia,Picanto,Hatchback,City Car,UK
+kia_cee_d,kia,Cee'd,Hatchback,Compact,UK
+kia_ceed,kia,Ceed,Hatchback|Estate,Compact,UK
+kia_sportage,kia,Sportage,SUV,Compact SUV,UK
+kia_sorento,kia,Sorento,SUV,Mid-size SUV,UK
+kia_stinger,kia,Stinger,Fastback,Executive,UK
+kia_niro,kia,Niro,SUV,Compact SUV,UK
+kia_soul,kia,Soul,SUV,Compact SUV,UK
+kia_optima,kia,Optima,Sedan,Mid-size,UK
+kia_venga,kia,Venga,MPV,Mini MPV,UK
+kia_carens,kia,Carens,MPV,Compact MPV,UK
+kia_carnival,kia,Carnival,MPV,Large MPV,UK
+kia_pro_cee_d,kia,Pro_Cee'd,Hatchback,Compact,UK
+kia_stonic,kia,Stonic,SUV,Compact SUV,UK
+kia_xceed,kia,Xceed,Crossover,Compact Crossover,UK
+kia_ev6,kia,EV6,Crossover,Electric Crossover,UK
+kia_e-niro,kia,e-Niro,SUV,Electric SUV,UK
+kia_e-soul,kia,e-Soul,SUV,Electric SUV,UK
+kia_ev9,kia,EV9,SUV,Full-size Electric SUV,UK
+vauxhall_agila,vauxhall,Agila,Mini,City,UK
+vauxhall_astra,vauxhall,Astra,Hatchback|Estate,Compact,UK
+vauxhall_astra_sports_tourer,vauxhall,Astra Sports Tourer,Estate,Compact,UK
+vauxhall_corsa,vauxhall,Corsa,Hatchback,Supermini,UK
+vauxhall_insignia,vauxhall,Insignia,Sedan|Estate,Large,UK
+vauxhall_meriva,vauxhall,Meriva,MPV,Mini MPV,UK
+vauxhall_mokka,vauxhall,Mokka,SUV,Compact SUV,UK
+vauxhall_signum,vauxhall,Signum,MPV,Large MPV,UK
+vauxhall_tigra,vauxhall,Tigra,Coupe,Compact Coupe,UK
+vauxhall_vectra,vauxhall,Vectra,Sedan|Hatchback|Estate,Large,UK
+vauxhall_vivaro_life,vauxhall,Vivaro Life,MPV,Large MPV,UK
+vauxhall_zafira,vauxhall,Zafira,MPV,Compact MPV,UK
+vauxhall_adam,vauxhall,Adam,Hatchback,City,UK
+vauxhall_cascada,vauxhall,Cascada,Convertible,Mid-size Convertible,UK
+vauxhall_crossland,vauxhall,Crossland,SUV,Compact SUV,UK
+vauxhall_grandland,vauxhall,Grandland,SUV,Mid-size SUV,UK
+vauxhall_combo_life,vauxhall,Combo Life,MPV,Compact MPV,UK
+vauxhall_astra_electric,vauxhall,Astra Electric,Hatchback,Compact,UK
+vauxhall_corsa_electric,vauxhall,Corsa Electric,Hatchback,Supermini,UK
+vauxhall_mokka_electric,vauxhall,Mokka Electric,SUV,Compact SUV,UK
+vauxhall_grandland_electric,vauxhall,Grandland Electric,SUV,Mid-size SUV,UK
+vauxhall_vivaro_electric,vauxhall,Vivaro Electric,Van,Light Commercial,UK
+nissan_almera,nissan,Almera,Hatch,Compact,UK
+nissan_micra,nissan,Micra,Hatch,Supermini,UK
+nissan_sunny,nissan,Sunny,Sedan,Compact,UK
+nissan_primera,nissan,Primera,Sedan|Hatch,Mid,UK
+nissan_maxima,nissan,Maxima,Sedan,Full,UK
+nissan_350z,nissan,350Z,Coupe,Sports,UK
+nissan_370z,nissan,370Z,Coupe,Sports,UK
+nissan_gt-r,nissan,GT-R,Coupe,Sports,UK
+nissan_juke,nissan,Juke,SUV,Compact,UK
+nissan_qashqai,nissan,Qashqai,SUV,Compact,UK
+nissan_x-trail,nissan,X-Trail,SUV,Mid,UK
+nissan_murano,nissan,Murano,SUV,Mid,UK
+nissan_pathfinder,nissan,Pathfinder,SUV,Full,UK
+nissan_navara,nissan,Navara,Pickup,Pickup,UK
+nissan_note,nissan,Note,MPV,Supermini,UK
+nissan_leaf,nissan,Leaf,Hatch,Compact,UK
+nissan_pixo,nissan,Pixo,Hatch,City,UK
+nissan_tiida,nissan,Tiida,Hatch,Compact,UK
+nissan_versa,nissan,Versa,Sedan,Compact,UK
+nissan_cube,nissan,Cube,MPV,Compact,UK
+nissan_pulsar,nissan,Pulsar,Hatch,Compact,UK
+nissan_sentra,nissan,Sentra,Sedan,Compact,UK
+nissan_versa_note,nissan,Versa Note,MPV,Supermini,UK
+nissan_kicks,nissan,Kicks,SUV,Compact,UK
+nissan_ariya,nissan,Ariya,SUV,Mid,UK
+mazda_2,mazda,Mazda2,Hatchback,Supermini,UK
+mazda_3,mazda,Mazda3,Hatchback|Sedan,Compact,UK
+mazda_5,mazda,Mazda5,MPV,Compact MPV,UK
+mazda_6,mazda,Mazda6,Sedan|Estate,Mid-size,UK
+mazda_cx3,mazda,Mazda CX-3,SUV,Subcompact SUV,UK
+mazda_cx30,mazda,Mazda CX-30,SUV,Compact SUV,UK
+mazda_cx5,mazda,Mazda CX-5,SUV,Compact SUV,UK
+mazda_cx60,mazda,Mazda CX-60,SUV,Mid-size SUV,UK
+mazda_cx7,mazda,Mazda CX-7,SUV,Mid-size SUV,UK
+mazda_mx5,mazda,Mazda MX-5,Roadster,Sports car,UK
+mazda_premacy,mazda,Mazda Premacy,MPV,Compact MPV,UK
+mazda_rx8,mazda,Mazda RX-8,Coupe,Sports car,UK
+mazda_tribute,mazda,Mazda Tribute,SUV,Compact SUV,UK
+peugeot_107,peugeot,107,Hatch,City,UK
+peugeot_108,peugeot,108,Hatch,City,UK
+peugeot_206,peugeot,206,Hatch,Supermini,UK
+peugeot_207,peugeot,207,Hatch,Supermini,UK
+peugeot_208,peugeot,208,Hatch,Supermini,UK
+peugeot_3008,peugeot,3008,SUV,Compact SUV,UK
+peugeot_301,peugeot,301,Sedan,Compact,UK
+peugeot_307,peugeot,307,Hatch,Small Family,UK
+peugeot_308,peugeot,308,Hatch,Small Family,UK
+peugeot_4007,peugeot,4007,SUV,Mid-size SUV,UK
+peugeot_4008,peugeot,4008,SUV,Compact SUV,UK
+peugeot_406,peugeot,406,Sedan,Large Family,UK
+peugeot_407,peugeot,407,Sedan,Large Family,UK
+peugeot_5008,peugeot,5008,SUV,Mid-size SUV,UK
+peugeot_508,peugeot,508,Sedan,Large Family,UK
+peugeot_607,peugeot,607,Sedan,Executive,UK
+peugeot_807,peugeot,807,MPV,Large MPV,UK
+peugeot_bipper,peugeot,Bipper,Van,Small Van,UK
+peugeot_expert,peugeot,Expert,Van,Medium Van,UK
+peugeot_iOn,peugeot,iOn,Hatch,City,UK
+peugeot_partner,peugeot,Partner,Van,Small Van,UK
+peugeot_rifter,peugeot,Rifter,MPV,Leisure Activity,UK
+peugeot_traveller,peugeot,Traveller,MPV,Large MPV,UK
+volvo_s40_2000,volvo,S40,Sedan,Compact,UK
+volvo_v40_2000,volvo,V40,Wagon,Compact,UK
+volvo_s60_2000,volvo,S60,Sedan,Mid,UK
+volvo_v70_2000,volvo,V70,Wagon,Mid,UK
+volvo_s80_2000,volvo,S80,Sedan,Full,UK
+volvo_xc70_2000,volvo,XC70,SUV,Mid,UK
+volvo_xc90_2002,volvo,XC90,SUV,Luxury,UK
+volvo_s40_2004,volvo,S40,Sedan,Compact,UK
+volvo_v50_2004,volvo,V50,Wagon,Compact,UK
+volvo_s60_2004,volvo,S60,Sedan,Mid,UK
+volvo_c30_2006,volvo,C30,Hatch,Compact,UK
+volvo_c70_2006,volvo,C70,Convertible,Mid,UK
+volvo_s80_2006,volvo,S80,Sedan,Full,UK
+volvo_xc60_2008,volvo,XC60,SUV,Mid,UK
+volvo_v60_2010,volvo,V60,Wagon,Mid,UK
+volvo_s60_2010,volvo,S60,Sedan,Mid,UK
+volvo_v40_2012,volvo,V40,Hatch,Compact,UK
+volvo_s60_2014_cross_country,volvo,S60 Cross Country,Sedan,Mid,UK
+volvo_v60_2014_cross_country,volvo,V60 Cross Country,Wagon,Mid,UK
+volvo_xc90_2015,volvo,XC90,SUV,Luxury,UK
+volvo_s90_2016,volvo,S90,Sedan,Full,UK
+volvo_v90_2016,volvo,V90,Wagon,Full,UK
+volvo_v60_2018,volvo,V60,Wagon,Mid,UK
+volvo_s60_2018,volvo,S60,Sedan,Mid,UK
+volvo_xc40_2017,volvo,XC40,SUV,Compact,UK
+volvo_v90_cross_country_2016,volvo,V90 Cross Country,Wagon,Full,UK
+volvo_c40_2022,volvo,C40 Recharge,SUV,Compact,UK
+volvo_xc60_2017,volvo,XC60,SUV,Mid,UK
+volvo_ex30_2023,volvo,EX30,SUV,Compact,UK
+volvo_em90_2024,volvo,EM90,MPV,Full,UK
+jaguar_s_type,jaguar,S-Type,Sedan,Mid,UK
+jaguar_x_type,jaguar,X-Type,Sedan,Compact,UK
+jaguar_xjs,jaguar,XJS,Coupe,Luxury,UK
+jaguar_x_type_estate,jaguar,X-Type Estate,Wagon,Compact,UK
+jaguar_xjr,jaguar,XJR,Sedan,Full,UK
+jaguar_x_type_2001,jaguar,X-Type (2001),Sedan,Compact,UK
+jaguar_x_type_estate_2004,jaguar,X-Type Estate (2004),Wagon,Compact,UK
+jaguar_xk_x150,jaguar,XK (X150),Coupe,Luxury,UK
+jaguar_xk_convertible_x150,jaguar,XK Convertible (X150),Convertible,Luxury,UK
+jaguar_x_type_2008,jaguar,X-Type (2008),Sedan,Compact,UK
+jaguar_x_type_estate_2008,jaguar,X-Type Estate (2008),Wagon,Compact,UK
+jaguar_xfr,jaguar,XFR,Sedan,Full,UK
+jaguar_xkr,jaguar,XKR,Coupe,Luxury,UK
+jaguar_xkr_convertible,jaguar,XKR Convertible,Convertible,Luxury,UK
+jaguar_xjs_2003,jaguar,XJS (2003),Coupe,Luxury,UK
+jaguar_x_type_2010,jaguar,X-Type (2010),Sedan,Compact,UK
+jaguar_x_type_estate_2010,jaguar,X-Type Estate (2010),Wagon,Compact,UK
+jaguar_xj_x351,jaguar,XJ (X351),Sedan,Luxury,UK
+jaguar_xf_x250,jaguar,XF (X250),Sedan,Mid,UK
+jaguar_xk_x150_2011,jaguar,XK (X150) (2011),Coupe,Luxury,UK
+jaguar_xk_convertible_x150_2011,jaguar,XK Convertible (X150) (2011),Convertible,Luxury,UK
+jaguar_xf_sportbrake_x250,jaguar,XF Sportbrake (X250),Wagon,Mid,UK
+jaguar_f_type_coupe,jaguar,F-Type Coupe,Coupe,Luxury,UK
+jaguar_f_type_convertible,jaguar,F-Type Convertible,Convertible,Luxury,UK
+jaguar_f_pace,jaguar,F-Pace,SUV,Luxury,UK
+jaguar_xe,jaguar,XE,Sedan,Mid,UK
+jaguar_xf_x260,jaguar,XF (X260),Sedan,Mid,UK
+jaguar_e_pace,jaguar,E-Pace,SUV,Compact,UK
+jaguar_i_pace,jaguar,I-Pace,SUV,Luxury,UK
+jaguar_f_type_2016,jaguar,F-Type (2016),Coupe,Luxury,UK
+jaguar_f_type_convertible_2016,jaguar,F-Type Convertible (2016),Convertible,Luxury,UK
+jaguar_f_type_2020,jaguar,F-Type (2020),Coupe,Luxury,UK
+jaguar_f_type_convertible_2020,jaguar,F-Type Convertible (2020),Convertible,Luxury,UK
+jaguar_f_pace_2021,jaguar,F-Pace (2021),SUV,Luxury,UK
+jaguar_xj_x351_2019,jaguar,XJ (X351) (2019),Sedan,Luxury,UK
+jaguar_xf_x260_2021,jaguar,XF (X260) (2021),Sedan,Mid,UK
+jaguar_xf_sportbrake_x260,jaguar,XF Sportbrake (X260),Wagon,Mid,UK
+jaguar_xe_2019,jaguar,XE (2019),Sedan,Mid,UK
+jaguar_e_pace_2021,jaguar,E-Pace (2021),SUV,Compact,UK
+jaguar_f_pace_2024,jaguar,F-Pace (2024),SUV,Luxury,UK
+jaguar_f_type_2024,jaguar,F-Type (2024),Coupe,Luxury,UK
+jaguar_f_type_convertible_2024,jaguar,F-Type Convertible (2024),Convertible,Luxury,UK
+jaguar_xf_2025,jaguar,XF (2025),Sedan,Mid,UK
+jaguar_xf_sportbrake_2025,jaguar,XF Sportbrake (2025),Wagon,Mid,UK
+jaguar_xe_2025,jaguar,XE (2025),Sedan,Mid,UK
+land_rover_defender_90,land_rover,Defender 90,SUV,Luxury,UK
+land_rover_defender_110,land_rover,Defender 110,SUV,Luxury,UK
+land_rover_defender_130,land_rover,Defender 130,SUV,Luxury,UK
+land_rover_discovery_3,land_rover,Discovery 3,SUV,Luxury,UK
+land_rover_discovery_4,land_rover,Discovery 4,SUV,Luxury,UK
+land_rover_discovery_sport,land_rover,Discovery Sport,SUV,Mid,UK
+land_rover_discovery,land_rover,Discovery,SUV,Luxury,UK
+land_rover_freelander_1,land_rover,Freelander 1,SUV,Mid,UK
+land_rover_freelander_2,land_rover,Freelander 2,SUV,Mid,UK
+land_rover_range_rover_classic,land_rover,Range Rover Classic,SUV,Luxury,UK
+land_rover_range_rover_evoque,land_rover,Range Rover Evoque,SUV,Compact,UK
+land_rover_range_rover_sport,land_rover,Range Rover Sport,SUV,Luxury,UK
+land_rover_range_rover_velar,land_rover,Range Rover Velar,SUV,Luxury,UK
+land_rover_range_rover,land_rover,Range Rover,SUV,Luxury,UK
+bentley_continental_gt,bentley,Continental GT,Coupe|Convertible,Luxury,UK
+bentley_flying_spur,bentley,Flying Spur,Sedan,Luxury,UK
+bentley_bentayga,bentley,Bentayga,SUV,Luxury,UK
+bentley_mulsanne,bentley,Mulsanne,Sedan,Luxury,UK
+bentley_continental_flying_spur,bentley,Continental Flying Spur,Sedan,Luxury,UK
+bentley_arnage,bentley,Arnage,Sedan,Luxury,UK
+rolls-royce_phantom_vii,rolls-royce,Phantom VII,Sedan,Luxury,UK
+rolls-royce_phantom_viii,rolls-royce,Phantom VIII,Sedan,Luxury,UK
+rolls-royce_ghost_i,rolls-royce,Ghost I,Sedan,Luxury,UK
+rolls-royce_ghost_ii,rolls-royce,Ghost II,Sedan,Luxury,UK
+rolls-royce_wraith,rolls-royce,Wraith,Coupe,Luxury,UK
+rolls-royce_dawn,rolls-royce,Dawn,Convertible,Luxury,UK
+rolls-royce_cullinan,rolls-royce,Cullinan,SUV,Luxury,UK
+rolls-royce_spectre,rolls-royce,Spectre,Coupe,Luxury,UK
+aston_martin_v12_vanquish_2001,aston_martin,V12 Vanquish,Coupe,Luxury,UK
+aston_martin_v8_vantage_2005,aston_martin,V8 Vantage,Coupe,Sports,UK
+aston_martin_db9_2004,aston_martin,DB9,Coupe,Luxury,UK
+aston_martin_dbs_v12_2007,aston_martin,DBS V12,Coupe,Luxury,UK
+aston_martin_virage_2011,aston_martin,Virage,Coupe,Luxury,UK
+aston_martin_v12_zagato_2011,aston_martin,V12 Zagato,Coupe,Luxury,UK
+aston_martin_rapide_2010,aston_martin,Rapide,Sedan,Luxury,UK
+aston_martin_v12_vanquish_2012,aston_martin,V12 Vanquish (Second Gen),Coupe,Luxury,UK
+aston_martin_vantage_2018,aston_martin,Vantage (Second Gen),Coupe,Sports,UK
+aston_martin_db11_2016,aston_martin,DB11,Coupe,Luxury,UK
+aston_martin_dbs_superleggera_2018,aston_martin,DBS Superleggera,Coupe,Luxury,UK
+aston_martin_valkyrie_2020,aston_martin,Valkyrie,Hypercar,Hypercar,UK
+aston_martin_speedster_2021,aston_martin,Speedster,Roadster,Sports,UK
+aston_martin_dbx_2020,aston_martin,DBX,SUV,Luxury,UK
+aston_martin_valhalla_2024,aston_martin,Valhalla,Mid-engine Sports,Sports,UK
+aston_martin_dbs_770_ultimate_2023,aston_martin,DBS 770 Ultimate,Coupe,Luxury,UK
+aston_martin_vantage_2024,aston_martin,Vantage (Third Gen),Coupe,Sports,UK
+aston_martin_db12_2023,aston_martin,DB12,Coupe,Luxury,UK
+mclaren_f1,mclaren,F1,Coupe,Supercar,UK
+mclaren_slr,mclaren,SLR,Coupe,Supercar,UK
+mclaren_mp412c,mclaren,MP4-12C,Coupe,Supercar,UK
+mclaren_mp412c_spider,mclaren,MP4-12C Spider,Convertible,Supercar,UK
+mclaren_p1,mclaren,P1,Coupe,Hypercar,UK
+mclaren_650s,mclaren,650S,Coupe,Supercar,UK
+mclaren_650s_spider,mclaren,650S Spider,Convertible,Supercar,UK
+mclaren_570s,mclaren,570S,Coupe,Sports Car,UK
+mclaren_570s_spider,mclaren,570S Spider,Convertible,Sports Car,UK
+mclaren_540c,mclaren,540C,Coupe,Sports Car,UK
+mclaren_675lt,mclaren,675LT,Coupe,Supercar,UK
+mclaren_675lt_spider,mclaren,675LT Spider,Convertible,Supercar,UK
+mclaren_600lt,mclaren,600LT,Coupe,Sports Car,UK
+mclaren_600lt_spider,mclaren,600LT Spider,Convertible,Sports Car,UK
+mclaren_senna,mclaren,Senna,Coupe,Hypercar,UK
+mclaren_speedtail,mclaren,Speedtail,Coupe,Hypercar,UK
+mclaren_gt,mclaren,GT,Coupe,Grand Tourer,UK
+mclaren_720s,mclaren,720S,Coupe,Supercar,UK
+mclaren_720s_spider,mclaren,720S Spider,Convertible,Supercar,UK
+mclaren_elva,mclaren,Elva,Roadster,Hypercar,UK
+mclaren_artura,mclaren,Artura,Coupe,Supercar,UK
+mclaren_765lt,mclaren,765LT,Coupe,Supercar,UK
+mclaren_765lt_spider,mclaren,765LT Spider,Convertible,Supercar,UK
+mclaren_solus_gt,mclaren,Solus GT,Coupe,Track-Only,UK
+mclaren_750s,mclaren,750S,Coupe,Supercar,UK
+mclaren_750s_spider,mclaren,750S Spider,Convertible,Supercar,UK
+lotus_elise,lotus,Elise,Coupe,Sports,UK
+lotus_exige,lotus,Exige,Coupe,Sports,UK
+lotus_evora,lotus,Evora,Coupe,Sports,UK
+lotus_evija,lotus,Evija,Coupe,Hypercar,UK
+lotus_emira,lotus,Emira,Coupe,Sports,UK
+lotus_europa_s,lotus,Europa S,Coupe,Sports,UK
+mini_r50,mini,Hatch (R50),Hatch,Compact,UK
+mini_r52,mini,Convertible (R52),Convertible,Compact,UK
+mini_r53,mini,Hatch (R53),Hatch,Compact,UK
+mini_r55,mini,Clubman (R55),Wagon,Compact,UK
+mini_r56,mini,Hatch (R56),Hatch,Compact,UK
+mini_r57,mini,Convertible (R57),Convertible,Compact,UK
+mini_r58,mini,Coupe (R58),Coupe,Compact,UK
+mini_r59,mini,Roadster (R59),Convertible,Compact,UK
+mini_r60,mini,Countryman (R60),SUV,Compact,UK
+mini_r61,mini,Paceman (R61),SUV,Compact,UK
+mini_f54,mini,Clubman (F54),Wagon,Compact,UK
+mini_f55,mini,Hatch 5-Door (F55),Hatch,Compact,UK
+mini_f56,mini,Hatch 3-Door (F56),Hatch,Compact,UK
+mini_f57,mini,Convertible (F57),Convertible,Compact,UK
+mini_f60,mini,Countryman (F60),SUV,Compact,UK
+mini_j01,mini,Electric (J01),Hatch,Compact,UK
+mini_u25,mini,Countryman (U25),SUV,Compact,UK
+mini_f66,mini,Hatch 3-Door (F66),Hatch,Compact,UK
+mini_f67,mini,Convertible (F67),Convertible,Compact,UK
+mini_f65,mini,Hatch 5-Door (F65),Hatch,Compact,UK
+mini_aceman,mini,Aceman,SUV,Compact,UK
+mg_zs_2017,mg,ZS,SUV,Compact,UK
+mg_zs_ev_2020,mg,ZS EV,SUV,Compact,UK
+mg_hs_2019,mg,HS,SUV,Mid,UK
+mg_hs_phev_2021,mg,HS PHEV,SUV,Mid,UK
+mg_5_2020,mg,5,Estate,Compact,UK
+mg_5_ev_2020,mg,5 EV,Estate,Compact,UK
+mg_3_2019,mg,3,Hatch,Supermini,UK
+mg_6_2008,mg,6,Sedan,Mid,UK
+mg_tf_2002,mg,TF,Roadster,Sports,UK
+mg_zt_2001,mg,ZT,Sedan,Compact,UK
+mg_zt_tourer_2003,mg,ZT Tourer,Estate,Compact,UK
+mg_zr_2001,mg,ZR,Hatch,Supermini,UK
+mg_zs_2001,mg,ZS,Hatch,Compact,UK
+mg_tf_2007,mg,TF,Roadster,Sports,UK
+mg_gs_2016,mg,GS,SUV,Mid,UK
+mg_ex300_2003,mg,EX300,Coupe,Sports,UK
+mg_sv_2003,mg,SV,Coupe,Sports,UK
+mg_f_2000,mg,F,Roadster,Sports,UK
+mg_tf_2000,mg,TF,Roadster,Sports,UK
+mg_v8_2000,mg,V8,Roadster,Sports,UK
+mg_octave_2000,mg,Octave,Sedan,Mid,UK
+mg_express_2023,mg,Express,Van,Light Commercial,UK
+mg_cyberster_2024,mg,Cyberster,Roadster,Sports,UK
+mg_4_2022,mg,4,Hatch,Compact,UK
+mg_4_ev_2022,mg,4 EV,Hatch,Compact,UK
+mg_7_2023,mg,7,Sedan,Mid,UK
+mg_vanda_2024,mg,Vanda,SUV,Mid,UK

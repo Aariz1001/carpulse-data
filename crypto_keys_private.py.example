@@ -1,0 +1,36 @@
+"""
+🔐 EXAMPLE - Private Encryption Keys
+
+Copy this file to 'crypto_keys_private.py' and replace with your own secret values.
+
+⚠️ NEVER commit crypto_keys_private.py to version control!
+
+The encrypted data can only be decrypted by applications
+that have these exact same key values.
+"""
+
+
+def get_private_keys():
+    """
+    Returns your private encryption key components.
+    
+    INSTRUCTIONS:
+    1. Copy this file to 'crypto_keys_private.py'
+    2. Change the values below to your own unique secrets
+    3. Make them look like innocuous config values (versions, build IDs, etc.)
+    4. Update your app's decryption code with the SAME values
+    5. Re-encrypt all data: python encrypt_data.py --verify
+    
+    Returns:
+        tuple: (c1, c2, c3, c4, salt)
+    """
+    # REPLACE THESE WITH YOUR OWN SECRET VALUES!
+    # Make them look like normal config strings to obfuscate
+    
+    c1 = "YOUR_VERSION_STRING_HERE"      # e.g., "v2.4.1-myapp"
+    c2 = "YOUR_BUILD_ID_HERE"            # e.g., "build_abc123def"
+    c3 = "YOUR_CONFIG_VALUE_HERE"        # e.g., "protocol_config_v2"
+    c4 = "YOUR_APP_IDENTIFIER_HERE"      # e.g., "com.example.myapp"
+    salt = "YOUR_SALT_VALUE_HERE"        # e.g., "20240101_release"
+    
+    return c1, c2, c3, c4, salt
